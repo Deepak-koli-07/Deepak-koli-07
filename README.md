@@ -44,3 +44,9 @@ My background in data analytics helps me:
 ---
 
 ⬇️ **Explore my pinned repositories below to see real-world projects and code.**
+
+---
+
+### 🔗 Find Me Online
+- Hugging Face: (https://huggingface.co/BlueNeuron)
+- LinkedIn: (https://www.linkedin.com/in/deepak-koli-9b9a8426a/)
