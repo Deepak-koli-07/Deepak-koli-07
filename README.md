@@ -37,7 +37,7 @@ My background in data analytics helps me:
 `Streamlit` • `Gradio` • `Hugging Face Spaces`  
 `Power BI` • `Tableau` • `Looker Studio`  
 `GA4` • `Mixpanel`  
-`Git` • `GitHub` • `Jupyter` 
+
 
 📚 Actively building skills in **ML**, **Agentic AI**, and **production-grade AI systems**
 
